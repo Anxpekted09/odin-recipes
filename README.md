@@ -1,2 +1,2 @@
 # odin-recipes
-In this project I will attempt to create a simple HTML recipe website for TheOdinProject.git
+In this project I will attempt to create a simple HTML recipe website for TheOdinProject.

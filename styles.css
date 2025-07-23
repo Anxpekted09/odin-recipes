@@ -8,9 +8,9 @@
     font-weight: bold;
     text-align: center;
     background-color: seagreen;
-    padding: 20px;
-    margin-top: auto;
-    border: 20px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 .lasagnA, .nuggetS, .hashbrowN {
@@ -21,8 +21,10 @@
     padding: 20px;
 }
 
-.lasagnatitle {
-    font-weight: bold;
-    color: darksalmon;
-    text-align: center;
+#chEf {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
 }

@@ -1,0 +1,28 @@
+* {
+    background-color: seashell;
+}
+
+.top {
+    color: blue;
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    background-color: seagreen;
+    padding: 20px;
+    margin-top: auto;
+    border: 20px;
+}
+
+.lasagnA, .nuggetS, .hashbrowN {
+    font-family: Arial;
+    font-weight: bold;
+    text-align: auto;
+    border: 20px;
+    padding: 20px;
+}
+
+.lasagnatitle {
+    font-weight: bold;
+    color: darksalmon;
+    text-align: center;
+}
